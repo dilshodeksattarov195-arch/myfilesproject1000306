@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervtringify",
+        "uuid": 2800512,
+        "checksum": "xair5w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
